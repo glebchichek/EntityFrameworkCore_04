@@ -70,6 +70,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[9.3.2, )"
             }
           },
           "imports": [

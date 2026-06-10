@@ -140,3 +140,5 @@
 /home/gleb/RiderProjects/EntFram_04/EntFram_04/obj/Debug/net8.0/EntFram_04.genruntimeconfig.cache
 /home/gleb/RiderProjects/EntFram_04/EntFram_04/obj/Debug/net8.0/ref/EntFram_04.dll
 /home/gleb/RiderProjects/EntFram_04/EntFram_04/bin/Debug/net8.0/appsettings.json
+/home/gleb/RiderProjects/EntFram_04/EntFram_04/bin/Debug/net8.0/Z.Dapper.Plus.dll
+/home/gleb/RiderProjects/EntFram_04/EntFram_04/obj/Debug/net8.0/EntFram_04.sourcelink.json
