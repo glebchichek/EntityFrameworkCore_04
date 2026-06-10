@@ -617,7 +617,7 @@ class Program
             Console.WriteLine($"- {p.Name} (С {p.StartDate:dd.MM.yyyy} по {p.EndDate:dd.MM.yyyy})");
         Console.ReadKey();
     }
-    
+    //вспомогательные методы для меню
     static void RunBatchInsert()
     {
         Console.Clear();
